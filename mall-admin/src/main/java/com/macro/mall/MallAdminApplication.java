@@ -12,5 +12,6 @@ public class MallAdminApplication {
     public static void main(String[] args) {
         SpringApplication.run(MallAdminApplication.class, args);
         System.out.println("启动成功！");
+        System.out.println("提交测试！");
     }
 }
